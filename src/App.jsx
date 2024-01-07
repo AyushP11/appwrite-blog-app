@@ -27,7 +27,7 @@ function App() {
       <div className='w-full block'>
         <Header />
         <main>
-          <h1 className='font-semibold text-2xl mt-4'>
+          <h1 className='flex justify-center font-semibold text-2xl mt-4'>
           Blog App
           </h1>
           <Outlet />
